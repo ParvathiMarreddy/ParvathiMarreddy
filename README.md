@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParvathiMarreddy
 - 👀 I’m interested in business analysis
-- 🌱 I’m currently SQL, Visio
-- 💞️ I’m looking to collaborate on business analyst jobs
+- 🌱 I’m currently learning SQL, Visio
+- 💞️ I’m looking for business analyst roles in Halifax, canada
 - 📫 parvathimarreddy08@gmail.com
 - 😄 Pronouns: She/Her
 <!---
